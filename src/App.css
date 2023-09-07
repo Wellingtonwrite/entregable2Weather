@@ -8,30 +8,30 @@
     background-color: rgba(0, 0, 0, 0.308);
     backdrop-filter: blur(5px);
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
     border-radius: 25px;
     display: flex;
     margin: 25px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 
 }
 
 .weather_card_title {
-    font-size: 4em;
-    padding: 25px 0;
+    font-size: 2.3em;
+    padding: 15px 0;
     color: white;
 }
 .weather_card_subtitle {
-    font-size: 2em;
-    padding: 25px 0;
+    font-size: 1.5em;
+    padding: 15px 0;
     color: white;
 }
 .weather_card_featureAll {
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
     padding: 5px 0;
     color: white;
 
@@ -48,7 +48,7 @@
     padding: 5px;
     background-color: rgba(255, 255, 255, 0.213);
     border-radius: 15px;
-    margin-right: 20px ;
+    margin-right: 10px ;
 }
 
 .weather_card_featureAll_title{
@@ -62,17 +62,17 @@ li{
 }
 
 .weather_card_iconWeather {
-    width: 150px;
+    width: 100px;
 }
 
 .weather_card_temp {
-    font-size: 4em;
+    font-size: 2.3em;
     color: white;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .weather_card_changeTemp {
-    font-size: 2.5em;
+    font-size: 1em;
     padding: 15px;
     border-radius: 10px;
     border-radius: 10px;
